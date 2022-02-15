@@ -1,8 +1,10 @@
 ---
 content_type: resource
 description: ''
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/15-s50-how-to-win-at-texas-holdem-poker-january-iap-2016/5280a84249e2eb63164baed25c449b03_KTzFk1s2ymE.srt
+file: /media/courses/15-s50-how-to-win-at-texas-holdem-poker-january-iap-2016/5280a84249e2eb63164baed25c449b03_KTzFk1s2ymE.srt
 file_type: application/x-subrip
+learning_resource_types: []
+ocw_type: OCWFile
 resourcetype: Other
 title: 3play caption file
 uid: 5280a842-49e2-eb63-164b-aed25c449b03
