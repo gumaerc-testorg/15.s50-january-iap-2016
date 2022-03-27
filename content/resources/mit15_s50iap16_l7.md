@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Slides
 parent_type: CourseSection
+parent_uid: e0a49538-b7cd-75ac-3df3-92ab3e78717d
 resourcetype: Document
 title: 'Lecture 7: An In-depth Combinatorial Hand Analysis in Cash Games'
 uid: ca4ca289-859d-44b9-af3b-786d4a5360f5

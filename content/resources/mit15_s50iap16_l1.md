@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Slides
 parent_type: CourseSection
+parent_uid: e0a49538-b7cd-75ac-3df3-92ab3e78717d
 resourcetype: Document
 title: 'Lecture 1: Overview and Introduction'
 uid: 344b1ada-fb25-4e99-25e7-12d0e1832129

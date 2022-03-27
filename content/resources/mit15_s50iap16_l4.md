@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Slides
 parent_type: CourseSection
+parent_uid: e0a49538-b7cd-75ac-3df3-92ab3e78717d
 resourcetype: Document
 title: 'Lecture 4: Preflop Re-raising Theory'
 uid: 7cbdefd6-7186-f0bb-fb56-790b976d7a82

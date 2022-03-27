@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Slides
 parent_type: CourseSection
+parent_uid: e0a49538-b7cd-75ac-3df3-92ab3e78717d
 resourcetype: Document
 title: 'Lecture 3: Tournaments vs. Cash Games'
 uid: aa986499-d8d2-60e7-9708-c7c48ebc1b0c

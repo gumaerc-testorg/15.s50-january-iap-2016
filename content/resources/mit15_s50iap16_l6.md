@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Slides
 parent_type: CourseSection
+parent_uid: e0a49538-b7cd-75ac-3df3-92ab3e78717d
 resourcetype: Document
 title: 'Lecture 6: Independent Chip Model'
 uid: 5a8392e9-3917-5758-331a-28be9a64645c
