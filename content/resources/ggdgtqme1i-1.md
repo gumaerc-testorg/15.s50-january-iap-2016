@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /media/courses/15-s50-how-to-win-at-texas-holdem-poker-january-iap-2016/bfbd0df94ed6538b710070855ff2d5b6_GgdGtQME1I.pdf
+file: /courses/15-s50-how-to-win-at-texas-holdem-poker-january-iap-2016/bfbd0df94ed6538b710070855ff2d5b6_GgdGtQME1I.pdf
 file_type: application/pdf
 learning_resource_types: []
 ocw_type: OCWFile

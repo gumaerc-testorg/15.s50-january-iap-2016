@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This section contains background information about general concepts,
+  poker rules, betting, and rankings.
 learning_resource_types: []
 ocw_type: CourseSection
 title: Study Materials

@@ -5,8 +5,9 @@ end_time: ''
 file: null
 learning_resource_types:
 - Lecture Videos
+ocw_type: ''
 optional_tab_title: Video Slides
-optional_text: '[Lecture 4: Preflop Re-raising Theory (PDF - 1MB)](resources/mit15_s50iap16_l4)'
+optional_text: '[Lecture 4: Preflop Re-raising Theory (PDF - 1MB)](/courses/15-s50-how-to-win-at-texas-holdem-poker-january-iap-2016/resources/mit15_s50iap16_l4)'
 parent_title: Video Lectures
 parent_type: CourseSection
 related_resources_text: ''
@@ -27,3 +28,6 @@ video_metadata:
 **Description:** In this session, Will Ma plays through the hands of an online tournament and touches on some key concepts.
 
 **Instructor:** Will Ma
+
+
+
