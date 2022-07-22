@@ -1,10 +1,14 @@
 ---
 content_type: page
+description: 'This section contains the lecture slides for the course. '
+learning_resource_types:
+- Lecture Notes
+ocw_type: CourseSection
 title: Lecture Slides
 uid: e0a49538-b7cd-75ac-3df3-92ab3e78717d
 ---
 
-The following set of slides correspond to the [Video Lectures]({{< baseurl >}}/video_galleries/video-lectures). You will also find each linked on the corresponding Lecture Slides tab in the video gallery.
+The following set of slides correspond to the {{% resource_link 9079133d-4e1d-f519-534b-2acfb4f17858 "Video Lectures" %}}. You will also find each linked on the corresponding Lecture Slides tab in the video gallery.
 
 {{< tableopen >}}
 {{< theadopen >}}
@@ -24,7 +28,7 @@ TOPICS
 1
 {{< tdclose >}}
 {{< tdopen >}}
-[Lecture 1: Overview and Introduction (PDF - 6.8MB)]({{< baseurl >}}/resources/mit15_s50iap16_l1)
+{{% resource_link 344b1ada-fb25-4e99-25e7-12d0e1832129 "Lecture 1: Overview and Introduction (PDF - 6.8MB)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -42,7 +46,7 @@ TOPICS
 3
 {{< tdclose >}}
 {{< tdopen >}}
-[Lecture 3: Tournamnents vs. Cash Games (PDF - 7.6MB)]({{< baseurl >}}/resources/mit15_s50iap16_l3)
+{{% resource_link aa986499-d8d2-60e7-9708-c7c48ebc1b0c "Lecture 3: Tournamnents vs. Cash Games (PDF - 7.6MB)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -51,7 +55,7 @@ TOPICS
 4
 {{< tdclose >}}
 {{< tdopen >}}
-[Lecture 4: Preflop Re-raising Theory (PDF - 1.1MB)]({{< baseurl >}}/resources/mit15_s50iap16_l4)
+{{% resource_link 7cbdefd6-7186-f0bb-fb56-790b976d7a82 "Lecture 4: Preflop Re-raising Theory (PDF - 1.1MB)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -69,7 +73,7 @@ Lecture 5: Guest Speaker Jennifer Shahade (no notes)
 6
 {{< tdclose >}}
 {{< tdopen >}}
-[Lecture 6: Independent Chip Model (PDF)]({{< baseurl >}}/resources/mit15_s50iap16_l6)
+{{% resource_link 5a8392e9-3917-5758-331a-28be9a64645c "Lecture 6: Independent Chip Model (PDF)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -78,7 +82,7 @@ Lecture 5: Guest Speaker Jennifer Shahade (no notes)
 7
 {{< tdclose >}}
 {{< tdopen >}}
-[Lecture 7: An In-depth Combinatorial Hand Analysis in Cash Games (PDF - 2.9MB)]({{< baseurl >}}/resources/mit15_s50iap16_l7)
+{{% resource_link ca4ca289-859d-44b9-af3b-786d4a5360f5 "Lecture 7: An In-depth Combinatorial Hand Analysis in Cash Games (PDF - 2.9MB)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
