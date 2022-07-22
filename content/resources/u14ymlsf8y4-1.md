@@ -4,6 +4,7 @@ description: ''
 file: /courses/15-s50-how-to-win-at-texas-holdem-poker-january-iap-2016/284dbaf79f3efe623f251890fab94a7c_u14ymLSF8y4.pdf
 file_type: application/pdf
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 resourcetype: Document
 title: 3play pdf file
