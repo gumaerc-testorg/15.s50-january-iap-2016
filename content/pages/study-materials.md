@@ -14,8 +14,8 @@ uid: d96a648c-2f6b-e867-9e94-98735e5d67dd
 
 Obviously, you should know the ranking of the poker hands, and how cards are dealt in texas hold’em. Know the terms straight flush, four-of-a-kind (or quads), full house (or boat), flush, straight, three-of-a-kind, two-pair, pair, high card; know preflop, postflop, flop, turn, river.
 
-- [Texas Hold'em Rules](https://www.pokernews.com/poker-rules/texas-holdem.htm#2-texas-hold-em-rule)
-- [Poker Hand Rankings](https://www.cardplayer.com/rules-of-poker/hand-rankings)
+- {{% resource_link "eb04a538-a949-4e14-b701-edc460e6e573" "Texas Hold'em Rules" %}}
+- {{% resource_link "574f9486-e567-4279-afa0-547569bae569" "Poker Hand Rankings" %}}
 
 ### Betting Rules
 
@@ -52,7 +52,7 @@ Rodman, Blair, Lee Nelson, Steven Heston, and Phil Hllmuth, Jr. *Kill Phil: The 
 Nelson, Lee, Tyson Steib, Steven Heston, Joe Hachem, and Bertrand Grospellier. *Kill Everyone: Advanced Strategies for No-Limit Hold 'em Poker Tournaments and Sit-n-Go's*. Huntington Press, 2009. ISBN: 978-1935396307.
 
 More entertaining than educational:   
-Hansen, Gus. *Every Hand Revealed*. Kensington Publishing Corp., 2008. ISBN: 978-0818407277. \[[Preview with Google Books](https://books.google.com/books?id=NglQ5DsdnXoC&printsec=frontcover#v=onepage&q&f=false)\]
+Hansen, Gus. *Every Hand Revealed*. Kensington Publishing Corp., 2008. ISBN: 978-0818407277. \[{{% resource_link "a4f690c0-c7a1-4e7e-a7e1-d15001a90fa7" "Preview with Google Books" %}}\]
 
 Not that practical, but theoretically very interesting:   
 Chen, Bill and Jerrod Ankenman. *The Mathematics of Poker.* Conjelco, 2006. ISBN: 978-1886070257.
